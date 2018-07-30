@@ -7,3 +7,7 @@ From tomorrow I'll start working on some projects. Probably will start from the 
 
 ## Day - 1 - 29.07.2018
 I started the Tribute page project from freeCodeCamp. Added the HTML. Only CSS left for the project. I plan on finishing the CSS tomorrow
+
+## Day - 2 - 30.07.2018
+Finished the Tribute page project from freeCodeCamp.
+Finished with adding the CSS. All in all it was a quick easy project. Next up is the build a survey form.

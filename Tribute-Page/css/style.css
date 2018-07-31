@@ -10,13 +10,14 @@ body {
     margin: 10px 0;
 }
 #image {
-    max-width: 800px; 
+    max-width: 100%; 
     display: block; 
     height: auto;
-    margin: auto;
-
+    margin: 0 auto;
 }
-ul {
+#tribute-info {
+    margin: 0 auto;
+    width: 60%;
     text-align: justify;
 }
 header h1 {

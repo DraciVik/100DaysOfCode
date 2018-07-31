@@ -1,0 +1,30 @@
+<doctype <!DOCTYPE html>
+    <html>
+
+    <head>
+        <meta charset="utf-8" />
+        <title>Page Title</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    </head>
+
+    <body>
+        <header>
+            <h1 id="title">Procrastination Survey Form</h1>
+            <p>A survey form about procrastinating</p>
+        </header>
+        <form id="survey-form">
+            <label for="name" id="name-label">
+                <input id="name" type="text" placeholder="Please enter your name" />
+            </label>
+            <label for="email" id="email-label">
+                <input id="email" type="text" pattern="/^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/" required  placeholder="Enter your email" />
+            </label>
+            <label for="number" id="number-label">
+                <input id="number" min="0" max="10" type="number" value="0" required/>
+            </label>
+
+        </form>
+    </body>
+
+    </html>

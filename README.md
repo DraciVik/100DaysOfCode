@@ -11,3 +11,7 @@ I started the Tribute page project from freeCodeCamp. Added the HTML. Only CSS l
 ## Day - 2 - 30.07.2018
 Finished the Tribute page project from freeCodeCamp.
 Finished with adding the CSS. All in all it was a quick easy project. Next up is the build a survey form.
+
+## Day - 3 - 31.07.2018
+Started the Survey Form project from freeCodeCamp.
+Started adding the input fields. I also added my first instagram picture. It was of the finished Tribute page project

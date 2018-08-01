@@ -14,4 +14,4 @@ Finished with adding the CSS. All in all it was a quick easy project. Next up is
 
 ## Day - 3 - 31.07.2018
 Started the Survey Form project from freeCodeCamp.
-Started adding the input fields. I also added my first instagram picture. It was of the finished Tribute page project
+Started adding the input fields. I also added my first instagram picture. It was of the finished Tribute page project.

@@ -5,24 +5,28 @@
         <meta charset="utf-8" />
         <title>Time travel survey form</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+        <link rel="stylesheet" type="text/css" media="screen" href="css/style.css" />
     </head>
 
     <body>
         <header>
             <h1 id="title">Post time travel symptoms</h1>
             <p id="description">A survey form about long and short term symptoms from timetravel</p>
+            </header>
             <form id="survey-form">
-                <label for="name" id="name-label">Name:
-                    <input id="name" type="text" placeholder="Please enter your name" required />
-                </label>
-                <label for="email" id="email-label">Email:
-                    <input id="email" type="email" pattern="/^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/" required
-                        placeholder="Enter your email" />
-                </label>
-                <label for="number" id="number-label">Times time travelled
-                    <input id="number" min="0" max="10" type="number" value="0" placeholder="Enter a number between 1 and 10" required/>
-                </label>
+                <div id="left">
+                    <label for="name" id="name-label">Name:
+                        <input id="name" type="text" placeholder="Please enter your name" required />
+                    </label>
+                    <label for="email" id="email-label">Email:
+                        <input id="email" type="email" pattern="/^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/" required
+                            placeholder="Enter your email" />
+                    </label>
+                    <label for="number" id="number-label">Times time travelled
+                        <input id="number" min="0" max="10" type="number" value="0" placeholder="Enter a number between 1 and 10" required/>
+                    </label>
+                </div>
+                <div id="right"></div>
                 <label for="dropdown">Prefered era:
                     <select id="dropdown" name="era">
                         <option value="" selected>Please choose an option--</option>
@@ -60,6 +64,7 @@
                 <label for="textarea">
                     <textarea id="textarea" rows="4" cols="20" wrap="hard" placeholder="Any comments?"></textarea>
                 </label>
+                </div>
                 <button id="submit">Submit</button>
             </form>
     </body>

@@ -18,3 +18,6 @@ Started adding the input fields. I also added my first instagram picture. It was
 
 ## Day - 4 - 01.08.2018
 Finished the HTML of the Survey Form. It passes all the test from codepen so technically the challenge is done. It loks ugly tho so I'll spend some time with CSS on it.
+
+## Day - 5 - 02.08.2018
+Finished the CSS for the Survey Form. Now it's not as ugly. Still ugly tho.

@@ -1,72 +1,90 @@
-<doctype <!DOCTYPE html>
-    <html>
+<!DOCTYPE html>
+<html>
 
-    <head>
-        <meta charset="utf-8" />
-        <title>Time travel survey form</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" type="text/css" media="screen" href="css/style.css" />
-    </head>
+<head>
+    <meta charset="utf-8" />
+    <title>Time travel survey form</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css" />
+</head>
 
-    <body>
-        <header>
-            <h1 id="title">Post time travel symptoms</h1>
-            <p id="description">A survey form about long and short term symptoms from timetravel</p>
-            </header>
-            <form id="survey-form">
-                <div id="left">
+<body>
+    <header>
+        <h1 id="title">Post time travel symptoms</h1>
+        <p id="description">A survey form about long and short term symptoms from timetravel</p>
+    </header>
+    <form id="survey-form">
+        <div id="left">
+            <ul>
+                <li>
                     <label for="name" id="name-label">Name:
                         <input id="name" type="text" placeholder="Please enter your name" required />
                     </label>
+                </li>
+                <li>
                     <label for="email" id="email-label">Email:
                         <input id="email" type="email" pattern="/^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/" required
                             placeholder="Enter your email" />
                     </label>
+                </li>
+                <li>
                     <label for="number" id="number-label">Times time travelled
                         <input id="number" min="0" max="10" type="number" value="0" placeholder="Enter a number between 1 and 10" required/>
                     </label>
-                </div>
-                <div id="right"></div>
-                <label for="dropdown">Prefered era:
-                    <select id="dropdown" name="era">
-                        <option value="" selected>Please choose an option--</option>
-                        <option value="post-21st">Post 21st century</option>
-                        <option value="before-21st">Before 21st century</option>
-                        <option value="middle-ages">Middle Ages</option>
-                        <option value="bc">Before Christ</option>
-                        <option value="jurassic">Jurassic Period</option>
-                    </select>
-                </label>
-                <div>
-                    <p>Did you break the law?</p>
-                    <label for="law">
-                        <input type="radio" name="law" value="1">No!
+                </li>
+            </ul>
+        </div>
+        <div id="right">
+            <ul>
+                <li>
+                    <label for="dropdown">Prefered era:
+                        <select id="dropdown" name="era">
+                            <option value="" selected>Please choose an option--</option>
+                            <option value="post-21st">Post 21st century</option>
+                            <option value="before-21st">Before 21st century</option>
+                            <option value="middle-ages">Middle Ages</option>
+                            <option value="bc">Before Christ</option>
+                            <option value="jurassic">Jurassic Period</option>
+                        </select>
                     </label>
-                    <label for="law">
-                        <input type="radio" name="law" value="2">Yes!
+                </li>
+                <li>
+                    <div>
+                        <p>Did you break the law?</p>
+                        <label for="law">
+                            <input type="radio" name="law" value="1">No!
+                        </label>
+                        <label for="law">
+                            <input type="radio" name="law" value="2">Yes!
+                        </label>
+                        <label for="law">
+                            <input type="radio" name="law" value="3">Maybe!
+                        </label>
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        <p>If the answer was Yes! select your commited temporal crimes</p>
+                        <label for="crimes">
+                            <input type="checkbox" name="crimes" value="saved" readonly>Saved a dead person
+                        </label>
+                        <label for="crimes">
+                            <input type="checkbox" name="crimes" value="killed">Killed someone that would have had a long life
+                        </label>
+                        <label for="crimes">
+                            <input type="checkbox" name="crimes" value="butterfly-effect">Killed a butterfly
+                        </label>
+                    </div>
+                </li>
+                <li>
+                    <label for="textarea">
+                        <textarea id="textarea" rows="4" cols="20" wrap="hard" placeholder="Any comments?"></textarea>
                     </label>
-                    <label for="law">
-                        <input type="radio" name="law" value="3">Maybe!
-                    </label>
-                </div>
-                <div>
-                    <p>If the answer was Yes! select your commited temporal crimes</p>
-                    <label for="crimes">
-                        <input type="checkbox" name="crimes" value="saved" readonly>Saved a dead person
-                    </label>
-                    <label for="crimes">
-                        <input type="checkbox" name="crimes" value="killed">Killed someone that would have had a long life
-                    </label>
-                    <label for="crimes">
-                        <input type="checkbox" name="crimes" value="butterfly-effect">Killed a butterfly
-                    </label>
-                </div>
-                <label for="textarea">
-                    <textarea id="textarea" rows="4" cols="20" wrap="hard" placeholder="Any comments?"></textarea>
-                </label>
-                </div>
-                <button id="submit">Submit</button>
-            </form>
-    </body>
+                </li>
+            </ul>
+        </div>
+        <button id="submit">Submit</button>
+    </form>
+</body>
 
-    </html>
+</html>

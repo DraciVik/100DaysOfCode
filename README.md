@@ -22,5 +22,5 @@ Finished the HTML of the Survey Form. It passes all the test from codepen so tec
 ## Day - 5 - 02.08.2018
 Finished the CSS for the Survey Form. Now it's not as ugly. Still ugly tho.
 
-## Day 6 - 03.08.2018
+## Day - 6 - 03.08.2018
 Started a new project - Product landing page. This one requires of me to use media queries and flexbox. Today I just wrote the HTML for the page with some placeholder text. Tomorrow is Saturday and I'm off from work so I'll spend a bit more time on this project so I can finish it. 

@@ -1,30 +1,86 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="utf-8" />
     <title>Product Landing Page</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="css/style.css" />
 </head>
+
 <body>
     <header id="header">
         <img id="header-img" src="img/hormann_logo.png" alt="Hormann company logo" />
         <nav id="nav-bar">
             <ul>
-                <li class="nav-link"><a href="#">Features</a></li>
-                <li class="nav-link"><a href="#">How it Works</a></li>
-                <li class="nav-link"><a href="#">Pricing</a></li>
+                <li class="nav-link">
+                    <a href="#">Features</a>
+                </li>
+                <li class="nav-link">
+                    <a href="#">How it Works</a>
+                </li>
+                <li class="nav-link">
+                    <a href="#">Pricing</a>
+                </li>
             </ul>
         </nav>
     </header>
-    <form id="form">
+    <form id="form" action="https://www.freecodecamp.com/email-submit">
         <label for="email">
             <input id="email" name="email" type="email" placeholder="Please enter your email adress.." required/>
             <label>
                 <input id="submit" type="submit" value="Submit" />
             </label>
         </label>
-
     </form>
+    <main id="main">
+        <section>
+            <h2>Quality</h2>
+            <p>lorem ipsum</p>
+            <h2>Realiability</h2>
+            <p>Dolor sit amet</p>
+            <h2>Guarantee</h2>
+            <p>Lorem ipsum again</p>
+        </section>
+        <section id="video-section">
+            <video id="video">
+                <source src="link" type="video/mp4" />
+                <source src="link2" type="video/ogg" /> Your browser does not support the video tag.
+            </video>
+        </section>
+        <section id="pricing-section">
+            <h3>600</h3>
+            <p>Lorem Ipsum</p>
+            <p>Lorem Ipsum</p>
+            <p>Lorem Ipsum</p>
+            <br>
+            <input type="submit" value="Select" />
+            <h3>900</h3>
+            <p>Lorem Ipsum</p>
+            <p>Lorem Ipsum</p>
+            <p>Lorem Ipsum</p>
+            <br>
+            <input type="submit" value="Select" />
+            <h3>1000</h3>
+            <p>Lorem Ipsum</p>
+            <p>Lorem Ipsum</p>
+            <p>Lorem Ipsum</p>
+            <br>
+            <input type="submit" value="Select" />
+        </section>
+    </main>
+    <footer id="footer">
+        <nav>
+            <ul>
+                <li>Privacy</li>
+                <li>Terms</li>
+                <li>Contact</li>
+            </ul>
+        </nav>
+        <p>Copyright 2018</p>
+    </footer>
+
 </body>
+
+
 </html>

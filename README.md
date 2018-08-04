@@ -24,3 +24,6 @@ Finished the CSS for the Survey Form. Now it's not as ugly. Still ugly tho.
 
 ## Day - 6 - 03.08.2018
 Started a new project - Product landing page. This one requires of me to use media queries and flexbox. Today I just wrote the HTML for the page with some placeholder text. Tomorrow is Saturday and I'm off from work so I'll spend a bit more time on this project so I can finish it. 
+
+## Day - 7 - 04.08.2018
+Today I took some refreshment on CSS flexbox. Previously I got so into JavaScript and React that I have forgotten how to use it. I spent couple of hours going trough the freeCodeCamp section on CSS Flexbox and watched some Wes Bos clips for it too. I think I have it now. I meddled with the CSS for the Product Landing Page challenge but I did not like it one bit so I scraped my progress. I will work on it the next day.

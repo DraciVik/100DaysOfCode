@@ -27,3 +27,6 @@ Started a new project - Product landing page. This one requires of me to use med
 
 ## Day - 7 - 04.08.2018
 Today I took some refreshment on CSS flexbox. Previously I got so into JavaScript and React that I have forgotten how to use it. I spent couple of hours going trough the freeCodeCamp section on CSS Flexbox and watched some Wes Bos clips for it too. I think I have it now. I meddled with the CSS for the Product Landing Page challenge but I did not like it one bit so I scraped my progress. I will work on it the next day.
+
+## Day - 8 - 05.08.2018
+Added flexbox to my navigation and the submit form. In the meantime I solved all the responsive design challenges from freeCodeCamp. Was a good reminder especially the part about transitions and animations. I need to practice that more often

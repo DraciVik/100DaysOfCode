@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+}
+
+#header {
+    display: flex;
+    flex-flow: row;
+    margin: auto;
+    justify-content: space-between;
+}
+#nav-bar ul {
+    list-style: none;
+    display: flex;
+    flex-basis: 2 0 100%;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+    align-content: center;
+}
+
+.nav-link {
+    margin: 0 5% 0 5%;
+}
+#header img {
+    display: block;
+    width: 150px;
+    max-width: 100%;
+    height: auto;
+}
+#nav-bar {
+    flex: 1 1 75%;
+}
+figure {
+    flex: 0 1 25%;
+}
+
+#submit {
+    background-color: rgb(69, 99, 175);
+    border: none;
+    color: white;
+}
+#submit:hover {
+    background-color: rgb(35, 23, 118);
+}
+#form {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#email {
+    flex: 0 1 300px;
+}
+#submit {
+    flex-basis: 100px;
+}

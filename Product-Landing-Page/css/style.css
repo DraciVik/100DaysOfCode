@@ -1,7 +1,8 @@
 body {
-    text-align: center;
+    background-image: linear-gradient(260deg, #C0C0C0 0%, #dd6e6e 100%);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(72, 67, 1);
 }
-
 #header {
     display: flex;
     flex-flow: row;
@@ -16,7 +17,6 @@ body {
     justify-content: flex-end;
     align-content: center;
 }
-
 .nav-link {
     margin: 0 5% 0 5%;
 }
@@ -32,13 +32,27 @@ body {
 figure {
     flex: 0 1 25%;
 }
-
-#submit {
+#submit, .price {
     background-color: rgb(69, 99, 175);
     border: none;
     color: white;
+    text-transform: uppercase;
+    font-weight: 300;
 }
-#submit:hover {
+.price {
+    box-sizing: border-box;
+    border-radius: 0px 2px 2px 0px;
+    border: none;
+	font-size: 1.1em;
+	text-decoration: none;
+	cursor: pointer;
+    margin-bottom: 10px;
+}
+#pricing li {
+    list-style: none;
+    text-align: left;
+}
+#submit:hover, .price:hover {
     background-color: rgb(35, 23, 118);
 }
 #form {
@@ -53,29 +67,94 @@ figure {
     flex-basis: 100px;
 }
 #attributes {
-    margin: 0 auto;
-    text-align: left;
-    padding-left: 40%;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
 }
-
 #attributes p {
-    line-height: 0;
-}
-#video-section p {
     margin-top: 0;
 }
-#video-section {
-    width: 60%;
+.poster-content {
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 16px;
+    box-sizing: border-box;
+    margin: auto;
+    margin-bottom: 5em;
+    width: 650px;
+    text-align: center;
+  }
+  .poster-content header {
+    display: inline-block;
+  }
+  .poster-content header h2 {
+    color: #FFF;
+    border-top: 2px solid #FFF;
+    border-bottom: 2px solid #FFF;
+    margin-top: 0;
+    letter-spacing: 1px;
+    font-size: 26px;
+  }
+  .poster-content iframe {
+    max-width: 100%;
+    height: 315px;
+    border: 2px solid #DDD;
+  }
+  .poster-content .release-date {
+    font-size: 18px;
+    color: #FFF;
+    margin-bottom: 8px;
+  }
+  .poster-content {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+  }
+
+  #pricing-section {
+      display: flex;
+      justify-content:
+  }
+  .pricing-grid {
+    max-width:750px;
     margin: 0 auto;
-    position: relative;
-    overflow: hidden;
-    padding-top: 56.25%;
-}
-#video {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border: 0;
-}
+    display:flex;
+    flex-wrap: wrap;
+    align-items:center;
+  }
+  
+  .plan {
+    background-color:rgba(0,0,0,0.2);
+    margin:20px;
+    padding:20px;
+    border-radius: 4px;
+    text-align: center;
+  
+    flex: 1;
+    display:flex;
+    flex-wrap:wrap;
+  
+  }
+  
+  .plan > * {
+    flex:1 1 100%;
+  }
+  
+  .plan .cta {
+    align-self:flex-end;
+  }
+  footer {
+    text-align: center;
+    color: rgba(45, 45, 45, 0.4)
+  }
+  footer a {
+    text-decoration: none;
+    color: rgba(65, 65, 65, 0.4)
+  }
+  footer a:hover {
+      color: rgba(23, 19, 247, 0.212)
+  }
+  a {
+      text-decoration: none;
+      color: 
+  }

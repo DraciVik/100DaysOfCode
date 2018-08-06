@@ -52,3 +52,30 @@ figure {
 #submit {
     flex-basis: 100px;
 }
+#attributes {
+    margin: 0 auto;
+    text-align: left;
+    padding-left: 40%;
+}
+
+#attributes p {
+    line-height: 0;
+}
+#video-section p {
+    margin-top: 0;
+}
+#video-section {
+    width: 60%;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+}
+#video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}

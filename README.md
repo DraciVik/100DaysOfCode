@@ -30,3 +30,12 @@ Today I took some refreshment on CSS flexbox. Previously I got so into JavaScrip
 
 ## Day - 8 - 05.08.2018
 Added flexbox to my navigation and the submit form. In the meantime I solved all the responsive design challenges from freeCodeCamp. Was a good reminder especially the part about transitions and animations. I need to practice that more often
+
+## Day - 9 - 06.08.2018
+Messed with flexbox a bit more.
+
+## Day - 10 - 07.08.2018
+Joined a webinar and listened to it for an hour. Seemed like a waste of time tbh. I'm almost done with my Product Landing Page project. Should have completed it last night but the webinar took time away from me.
+
+## Day - 11 - 08.08.2018
+Took a sidetrack and practiced the parallax effect today.

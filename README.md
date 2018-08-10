@@ -39,3 +39,9 @@ Joined a webinar and listened to it for an hour. Seemed like a waste of time tbh
 
 ## Day - 11 - 08.08.2018
 Took a sidetrack and practiced the parallax effect today.
+
+## Day - 12 - 09.08.2018
+Today I only watched YouTube videos. Got sleepy after a long day at work and around 7 PM I decided to get a power nap. That nap turned into a 12 hour sleep where I woke up just in time to get ready for work. I'm not sure if I should count this day or not but I saw lots of people counting days where they only watched tutorials and did not do any coding so I will too for today.
+
+## Day - 13 - 10.08.2018
+Found out a friend of mine from when I was in the USA has passed away from Lupus. I worked on my Product Landing Page for a bit before deciding to call it quits. Decided to scrap all the CSS I did and do it again from the basics. 

@@ -45,3 +45,6 @@ Today I only watched YouTube videos. Got sleepy after a long day at work and aro
 
 ## Day - 13 - 10.08.2018
 Found out a friend of mine from when I was in the USA has passed away from Lupus. I worked on my Product Landing Page for a bit before deciding to call it quits. Decided to scrap all the CSS I did and do it again from the basics. 
+
+## Day - 14 - 11.08.2018
+Today I enjoyed myself. Went to an Aqua Park with my fiancé and then I wamted to focus on my programming but my 6 year old laptop was very slow so I decided to treat myself to a new laptop. It had Linux as an OS and I spent my time installing Windows 10 and configuring it for programming.

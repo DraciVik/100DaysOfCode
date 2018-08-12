@@ -48,3 +48,6 @@ Found out a friend of mine from when I was in the USA has passed away from Lupus
 
 ## Day - 14 - 11.08.2018
 Today I enjoyed myself. Went to an Aqua Park with my fiancé and then I wamted to focus on my programming but my 6 year old laptop was very slow so I decided to treat myself to a new laptop. It had Linux as an OS and I spent my time installing Windows 10 and configuring it for programming.
+
+## Day - 15 - 12.08.2018
+Today I spent most of my time on setting up my new laptop. I also messed with flexbox some more along with navigation.

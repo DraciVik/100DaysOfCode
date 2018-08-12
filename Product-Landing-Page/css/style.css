@@ -1,3 +1,36 @@
-#header {
-    display: flex;
+body, html {
+    font-size: 100%;
+    font-family: "Helvetica", sans-serif;
+}
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    background: #444;
+}
+
+nav ul li a {
+    color: #ddd;
+    text-decoration: none;
+    padding: .8rem 1rem;
+    display: block;
+    line-height: 1;
+}
+nav ul li {
+    border-bottom: 1px dotted #ddd;
+}
+
+/*Styling logo */
+nav div:first-child {
+    background: #222;
+}
+nav div:first-child h1 {
+    line-height: 0;
+}
+nav div:first-child img {
+    filter: contrast(0);
 }

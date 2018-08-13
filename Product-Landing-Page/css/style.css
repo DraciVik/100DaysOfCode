@@ -13,6 +13,7 @@ nav ul {
     background: #444;
 }
 
+
 nav ul li a {
     color: #ddd;
     text-decoration: none;
@@ -30,7 +31,58 @@ nav div:first-child {
 }
 nav div:first-child h1 {
     line-height: 0;
+    padding: .8rem 0rem;
+    text-align: center;
 }
-nav div:first-child img {
-    filter: contrast(0);
+
+nav img {
+    max-width: 60%;
+    height: auto;
+}
+
+nav div:first-child h1, nav ul {
+    margin: 0;
+    text-align: center;
+}
+
+/*Media query*/
+@media only screen and (min-width: 30em) {
+    nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background: #222;
+    }
+    
+    #nav-bar ul {
+        display: flex;
+        background: none;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+    nav div {
+        max-width: 200px;
+        height: auto;
+    }
+    #nav-bar img {
+        margin: 0 1rem 0 0%;
+        max-width: 100%;
+    }
+    nav div:first-child h1 {
+        padding: 0;
+    }
+    nav div:first-child img {
+        
+    }
+    nav ul li {
+        border-bottom: none;
+        flex: 1 0 auto;
+        border: 1px dotted blue;
+    }
+    nav ul li a {
+        padding: 1.2rem 1rem;
+    }
+    nav ul li a:hover {
+        background: red;
+    }
 }

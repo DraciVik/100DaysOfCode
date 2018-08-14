@@ -50,17 +50,35 @@ nav div:first-child h1, nav ul {
     display: flex;
     flex-flow: wrap column;
     text-align: center;
+    align-items: center;
 }
 
+#form > * {
+    margin-top: 0.2rem;
+    width: 200px;
+}
+#submit {
+    height: 1.8rem;
+    background-color: #444;
+    color: white;
+    width: 204px;
+    border: none;
+}
+#submit:hover {
+    background-color: #444fff;
+}
+#submit:focus {
+    background-color: #585d9e;
+}
 /*Media query*/
 @media only screen and (min-width: 30em) {
+    /* Navigation */
     nav {
         display: flex;
         justify-content: space-between;
         align-items: center;
         background: #222;
     }
-    
     #nav-bar ul {
         display: flex;
         background: none;
@@ -102,9 +120,28 @@ nav div:first-child h1, nav ul {
     nav ul li a::before {
         left: 0;
     }
-
     nav ul li a:hover::after, nav ul li a:hover::before {
         width: 50%;
     }
+    /* Form */
+    #form {
+        flex-flow: row;
+        justify-content: center;
+        align-items: stretch;
+    }
+    #form > * {
+        width: auto;
+        margin-right: 5px;
+    }
+    #email {
+        flex: 0 1 250px;
+    }
+    #submit {
+        flex: 0 1 100px;
+    }
+    label[for="email"] {
+        align-self: center;
+    }
+
 }
 

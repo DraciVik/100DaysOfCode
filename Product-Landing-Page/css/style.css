@@ -44,6 +44,13 @@ nav div:first-child h1, nav ul {
     margin: 0;
     text-align: center;
 }
+/*Styling form */
+
+#form {
+    display: flex;
+    flex-flow: wrap column;
+    text-align: center;
+}
 
 /*Media query*/
 @media only screen and (min-width: 30em) {
@@ -100,3 +107,4 @@ nav div:first-child h1, nav ul {
         width: 50%;
     }
 }
+

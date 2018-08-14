@@ -51,3 +51,9 @@ Today I enjoyed myself. Went to an Aqua Park with my fiancé and then I wamted t
 
 ## Day - 15 - 12.08.2018
 Today I spent most of my time on setting up my new laptop. I also messed with flexbox some more along with navigation.
+
+## Day - 16 - 13.08.2018
+I messed with flexbox for the navigation and wrote it for mobile and bigger screens. Afterwards I installed The Witcher 3 GOTY Edition and played that for an hour.
+
+## Day - 17 - 14.08.2018
+I finished with flexbox for the form element. Added responsiveness for mobile and bigger screens.

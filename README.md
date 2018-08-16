@@ -57,3 +57,6 @@ I messed with flexbox for the navigation and wrote it for mobile and bigger scre
 
 ## Day - 17 - 14.08.2018
 I finished with flexbox for the form element. Added responsiveness for mobile and bigger screens.
+
+## Day - 18 - 15.08.2018
+I over complicated a part of my code with flexbox when It works just fine with 5 lines of regular CSS. Leason learned. Also TI8 started so I spent some time watching DOTA

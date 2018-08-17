@@ -60,3 +60,6 @@ I finished with flexbox for the form element. Added responsiveness for mobile an
 
 ## Day - 18 - 15.08.2018
 I over complicated a part of my code with flexbox when It works just fine with 5 lines of regular CSS. Leason learned. Also TI8 started so I spent some time watching DOTA
+
+## Day - 19 - 16.08.2018
+Managed to get my Iframe responsive just the way I like it. Also centered my attributes section.

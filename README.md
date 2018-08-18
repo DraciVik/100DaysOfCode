@@ -63,3 +63,9 @@ I over complicated a part of my code with flexbox when It works just fine with 5
 
 ## Day - 19 - 16.08.2018
 Managed to get my Iframe responsive just the way I like it. Also centered my attributes section.
+
+## Day - 20 - 17.08.2018
+Finished with my product landing page HTML and CSS.
+
+## Day - 21 - 18.08.2018
+Had a few bugs with my HTML and CSS. Fixed it so the project passed all the FCC provided tests. Submited it to freeCodeCamp

@@ -69,3 +69,6 @@ Finished with my product landing page HTML and CSS.
 
 ## Day - 21 - 18.08.2018
 Had a few bugs with my HTML and CSS. Fixed it so the project passed all the FCC provided tests. Submited it to freeCodeCamp
+
+## Day - 22 - 19.08.2018
+I'm feeling like my CSS skills are a bit rusty so I watched a few tutorials and decided to dedicate half an hour a day to practicing a CSS feature. Started a new git repository for it. Played a bit of The Witcher 3 today too.

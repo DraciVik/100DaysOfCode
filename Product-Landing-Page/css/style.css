@@ -2,8 +2,6 @@ body, html {
     font-size: 100%;
     font-family: "Helvetica", sans-serif;
     overflow-x: hidden;
-}
-body, html {
     margin: 0;
     padding: 0;
 }

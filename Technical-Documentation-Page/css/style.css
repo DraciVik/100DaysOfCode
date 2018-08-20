@@ -4,6 +4,8 @@ body {
     margin: 0;
     padding: 0;
 }
+
+/* Navigation */
 #navbar ul {
     list-style: none;
     padding: 0;
@@ -27,6 +29,7 @@ body {
     text-align: center;
     padding-top: 1.5rem;
     font-size: 2em;
+    margin-top: 0;
     text-shadow: 3px 3px 0 rgba(255,255,255,0.1);
 }
 #navbar a:hover {
@@ -39,9 +42,36 @@ body {
     font-size: 1.5rem;
 }
 
+/* img */
 
 img {
     display: block;
     width: 100%;
     height: auto;
+}
+
+#main-doc {
+    text-align: justify;
+    padding: 0 5px;
+}
+code {
+    color: black;
+    font-family: Consolas,Menlo,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace,serif;
+}
+pre {
+    background-color: #84b1c5;
+    font-family: Consolas,Menlo,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace,serif;
+    margin-bottom: 10px;
+    max-height: 600px;
+    overflow: auto;
+    padding: 5px;
+    width: auto;
+    border-left: 5px solid #006996;
+    margin-left: 10px;
+}
+.note {
+    background-color: #ffe8d4;
+    border-left: 5px solid #f69d3c;
+    padding: 15px 10px;
+    margin-left: 10px;
 }

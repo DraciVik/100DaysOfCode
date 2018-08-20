@@ -4,7 +4,22 @@ body {
     margin: 0;
     padding: 0;
 }
+#main-doc {
+    text-align: justify;
+    padding: 0 5px;
+}
+h2 {
+    font-size: 3rem;
+    text-align: center;
+}
 
+/* input */
+
+input[type="text"] {
+    display: block;
+    width: 70%;
+    margin: 0 auto;
+}
 /* Navigation */
 #navbar ul {
     list-style: none;
@@ -49,11 +64,12 @@ img {
     width: 100%;
     height: auto;
 }
-
-#main-doc {
-    text-align: justify;
-    padding: 0 5px;
+.firefox {
+    max-width: 60%;
 }
+
+/* code and note*/
+
 code {
     color: black;
     font-family: Consolas,Menlo,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace,serif;
@@ -67,11 +83,65 @@ pre {
     padding: 5px;
     width: auto;
     border-left: 5px solid #006996;
-    margin-left: 10px;
+    margin: 0 20px;
 }
 .note {
     background-color: #ffe8d4;
     border-left: 5px solid #f69d3c;
     padding: 15px 10px;
-    margin-left: 10px;
+    margin: 0 20px;
+}
+
+/* footer */
+footer {
+    background-color: rgba(0, 0, 0, 0.162);
+    text-align: center;
+}
+footer p {
+    margin: 0;
+    padding: 10px 0;
+    color: rgba(0,0,0,0.3);
+}
+a {
+    text-decoration: none;
+    color: rgb(131, 131, 255);
+}
+a:hover {
+    color: blue;
+}
+footer a {
+    color: rgba(0,0,0,0.3);
+    text-decoration: none;
+}
+footer a:hover {
+    padding: 10px 5px;
+    color: green;
+    background-color: rgba(0, 0, 0, 0.162);
+}
+footer a:active {
+    background-color: green;
+    padding: 10px 5px;
+    color: white;
+}
+
+@media only screen and (min-width: 350px) {
+
+    /* img */ 
+img {
+    display: block;
+    max-width: 50%;
+    width: 100%;
+    height: auto;
+}
+.firefox {
+    max-width: 30%;
+}
+
+/* input */
+
+input[type="text"] {
+    display: inline;
+    width: auto;
+}
+
 }

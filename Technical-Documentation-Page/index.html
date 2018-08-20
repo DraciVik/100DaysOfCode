@@ -8,7 +8,6 @@
         <title>Technical documentation page</title>
     </head>
     <body>
-      <div>
       <header class="header-nav">
         <nav id="navbar">
           <header><h1> HTML5 Documentation</h1></header>
@@ -72,7 +71,7 @@
             <p>Not all elements follow the above pattern of opening tag, content, closing tag. Some elements consist only of a single tag, which is usually used to insert/embed something in the document at the place it is included. For example, the &lt;img&gt; element embeds an image file onto a page in the position it is included in:</p>
               <pre><code>&lt;img src="https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"&gt;</code></pre>
             <p>This would output the following on your page:</p>
-            <img src="img/firefox-icon.png" alt="The firefox logo">
+            <img class="firefox" src="img/firefox-icon.png" alt="The firefox logo">
             <p><strong>Note:</strong>Empty elements are also sometimes called void elements.</p>
         </article>
       </section>
@@ -97,7 +96,7 @@
     
             &lt;input type="text"&gt;</code></pre>
             <p>Both will give you an output as follows:</p>
-            <input type="text" disabled><input type="text">
+            <input type="text" disabled placeholder="Disabled"><input type="text" placeholder="Enabled">
         </article>
         <article>
           <h3>Omitting quotes around attribute values</h3>
@@ -205,7 +204,9 @@
           <p>All the documentation in this page is taken from <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started">MDN</a></p>
       </section>
       </main>
-    </div>
+      <footer id="footer">
+        <p>Made by <a href="https://github.com/dracivik" target="_blank">Viktor Stojanov</a></p>
+      </footer>
     </body>
     </html>
     

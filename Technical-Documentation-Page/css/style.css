@@ -144,4 +144,23 @@ input[type="text"] {
     width: auto;
 }
 
+ul {
+    height: 100vh;
+}
+.header-nav {
+    width: 35%;
+    float: left;
+    position: fixed;
+
+}
+
+#main-doc {
+    width: 60%;
+    float: right;
+}
+
+footer {
+    clear: both;
+}
+
 }

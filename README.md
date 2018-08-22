@@ -72,3 +72,9 @@ Had a few bugs with my HTML and CSS. Fixed it so the project passed all the FCC 
 
 ## Day - 22 - 19.08.2018
 I'm feeling like my CSS skills are a bit rusty so I watched a few tutorials and decided to dedicate half an hour a day to practicing a CSS feature. Started a new git repository for it. Played a bit of The Witcher 3 today too.
+
+## Day - 23 - 20.08.2018
+Started my Technical Documentation Page project from FCC. Finished the HTML and did the CSS for mobile devices. A couple of media queries left for bigger screens
+
+## Day - 24 - 21.08.2018
+Finished the Technical Documentation Page from FCC. Personal Portfolio Webpage left for the Responsive Web Design certificate. I hope to finish it by the end of this week

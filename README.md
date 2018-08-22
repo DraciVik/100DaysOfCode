@@ -78,3 +78,6 @@ Started my Technical Documentation Page project from FCC. Finished the HTML and 
 
 ## Day - 24 - 21.08.2018
 Finished the Technical Documentation Page from FCC. Personal Portfolio Webpage left for the Responsive Web Design certificate. I hope to finish it by the end of this week
+
+## Day - 25 - 22.08.2018
+Went trough some CSS tricks videos on Lynda.com and practiced a bit of CSS Grid. 

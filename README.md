@@ -81,3 +81,9 @@ Finished the Technical Documentation Page from FCC. Personal Portfolio Webpage l
 
 ## Day - 25 - 22.08.2018
 Went trough some CSS tricks videos on Lynda.com and practiced a bit of CSS Grid. 
+
+## Day - 26 - 23.08.2018
+Tinkered with CSS on lynda again. Made a few test layouts for my Personal Portfolio Webpage from freeCodeCamp.
+
+## Day - 27 - 24.08.2018
+I mostly read articles on medium and did the basic layout of my page. Need to populate it with content and style it with CSS. CSS Grid FTW!

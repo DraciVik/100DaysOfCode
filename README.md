@@ -87,3 +87,9 @@ Tinkered with CSS on lynda again. Made a few test layouts for my Personal Portfo
 
 ## Day - 27 - 24.08.2018
 I mostly read articles on medium and did the basic layout of my page. Need to populate it with content and style it with CSS. CSS Grid FTW!
+
+## Day - 28 - 25.08.2018
+Spend my Saturday mostly with my fiancé. Watched a bit of the TI8 semifinals. Worked on my page for an hour or so. Tomorrow I'll have more time and I hope to at least be 70% done.
+
+## Day - 29 - 26.08.2018
+While I was making my page I reached a point where I had to use flexbox for my items instead of CSS Grid. I feel like I have gaps in my Grid knowledge so It's time to watch the CSS Grid course by Wes Bos .

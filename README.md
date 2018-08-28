@@ -90,9 +90,12 @@ I mostly read articles on medium and did the basic layout of my page. Need to po
 
 ## Day - 28 - 25.08.2018
 Spend my Saturday mostly with my fiancé. Watched a bit of the TI8 semifinals. Worked on my page for an hour or so. Tomorrow I'll have more time and I hope to at least be 70% done.
-<<<<<<< HEAD
 
 ## Day - 29 - 26.08.2018
-While I was making my page I reached a point where I had to use flexbox for my items instead of CSS Grid. I feel like I have gaps in my Grid knowledge so It's time to watch the CSS Grid course by Wes Bos .
-=======
->>>>>>> ff0af8fc47736ff2919b3d4242ec95545dfad0c6
+While I was making my page I reached a point where I had to use flexbox for my items instead of CSS Grid. I feel like I have gaps in my Grid knowledge so It's time to watch the CSS Grid course by Wes Bos.
+
+## Day - 30 - 27.08.2018
+Watched YouTube videos, listened to podcasts and watched a bit of the CSS Grid course by @wesbos . Got a bid bored and started the JavaScript section from freeCodeCamp.
+
+## Day - 31 - 28.08.2018
+Almost done with the CSS Grid course by Wes Bos. Ready to finish my page

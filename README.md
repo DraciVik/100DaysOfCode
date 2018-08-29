@@ -99,3 +99,6 @@ Watched YouTube videos, listened to podcasts and watched a bit of the CSS Grid c
 
 ## Day - 31 - 28.08.2018
 Almost done with the CSS Grid course by Wes Bos. Ready to finish my page
+
+## Day - 32 - 29.08.2018
+Busy at work today. CSS Grid course still not done. Getting there

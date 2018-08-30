@@ -1,23 +1,25 @@
 body {
+ padding: 0;
+ margin: 0;   
+}
+#navbar ul {
+    list-style: none;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: 10% 100vh 80vh 60vh;
-    padding: 0;
-    margin: 0;
-    justify-items: start;
-    align-items: center;
 }
-
-#navbar, #welcome-section, #projects, #footer {
-    grid-column: 1/-1;
-}
-#navbar {
-    grid-column-start: 1;
-    grid-column-end: 2;
-    grid-row-start: 1;
-    grid-row-end: 2;
-}
-#navbar ul, #projects ul {
+.container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-template-rows: 10% 100vh 70vh 40px;
+}
+#welcome-section {
+    grid-column: 1 / -1;
+    grid-row: 2 / 3;
+}
+#projects {
+    grid-column: 1 / -1;
+    grid-row: 3 / 4;
+}
+#footer {
+    grid-column: 1 / -1;
+    grid-row: 4 / 5;
 }

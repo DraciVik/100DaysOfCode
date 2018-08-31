@@ -2,22 +2,40 @@ body {
  padding: 0;
  margin: 0;   
 }
-#navbar ul {
-    list-style: none;
-    display: grid;
-}
+
 .container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     grid-template-rows: 10% 100vh 70vh 40px;
 }
+#navbar {
+    grid-column: 1 / -1;
+}
+
+#navbar ul {
+    list-style: none;
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: space-around;
+    grid-gap: 10px;
+}
 #welcome-section {
     grid-column: 1 / -1;
     grid-row: 2 / 3;
+    align-self: center;
+    justify-self: center;
 }
 #projects {
     grid-column: 1 / -1;
     grid-row: 3 / 4;
+}
+#projects ul {
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr);
+}
+.project-tile {
+
 }
 #footer {
     grid-column: 1 / -1;

@@ -22,10 +22,18 @@ body {
 #welcome-section {
     grid-column: 1 / -1;
     grid-row: 2 / 3;
-    align-self: center;
-    justify-self: center;
+    background: url(../img/programming.jpg);
+    color: white;
+    background-size: cover;
+}
+
+#welcome-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #projects {
+    background-color: rgba(0, 0, 0, 0.089);
     grid-column: 1 / -1;
     grid-row: 3 / 4;
     display: grid;
@@ -37,6 +45,7 @@ body {
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
     font-weight: 100;
     padding: 20px;
+    margin: 5px;
     display: grid;
     grid-template-columns: 300px 1fr;
     grid-gap: 10px;

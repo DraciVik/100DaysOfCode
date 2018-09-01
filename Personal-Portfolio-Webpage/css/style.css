@@ -6,7 +6,7 @@ body {
 .container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    grid-template-rows: 10% 100vh 70vh 40px;
+    grid-template-rows: 10% 100vh auto 40px;
 }
 #navbar {
     grid-column: 1 / -1;
@@ -28,15 +28,25 @@ body {
 #projects {
     grid-column: 1 / -1;
     grid-row: 3 / 4;
-}
-#projects ul {
     display: grid;
-    grid-auto-flow: column;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    grid-gap: 20px;
 }
-.project-tile {
+.project {
+    background: rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    font-weight: 100;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    grid-gap: 10px;
+    align-items: center;
+}
+.project_picture {
+    width: 100%;
+    box-shadow: 0 0 6px rgba(0,0,0,0.5);
+}
 
-}
 #footer {
     grid-column: 1 / -1;
     grid-row: 4 / 5;

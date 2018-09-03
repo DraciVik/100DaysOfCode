@@ -10,22 +10,41 @@ body {
     grid-template-rows: 10% 100vh auto 40px;
 }
 #navbar {
+    font-size: 1.1em;
     grid-column: 1 / -1;
+    background-color: rgb(46,45,55);
+    box-sizing: border-box;
 }
-
+#navbar a {
+    text-decoration: none;
+    color: rgb(222,212,202);
+}
+#navbar a:hover {
+    color: rgb(173,164,161);
+    font-size: 1.1em;
+}
+#navbar a:active {
+    padding: 5px 10px;
+    background-color: rgb(173,164,161);
+    color: black;
+    border: 1px solid white;
+}
 #navbar ul {
     list-style: none;
     display: grid;
     grid-auto-flow: column;
+    padding-left: 0;
     justify-content: space-around;
-    grid-gap: 10px;
+    grid-column: 1 / -1;
 }
+
 #welcome-section {
     grid-column: 1 / -1;
     grid-row: 2 / 3;
     background: url(../img/programming.jpg);
     color: white;
-    background-size: cover}
+    background-size: cover;
+}
 
 #welcome-section {
     display: flex;
@@ -36,10 +55,6 @@ body {
     background: rgba(0,0,0, 0.7);
     text-align: center;
     border-radius: 10%;
-}
-.italic {
-
-
 }
 #projects {
     background-color: rgba(0, 0, 0, 0.089);
@@ -71,3 +86,6 @@ body {
     grid-row: 4 / 5;
 }
 
+@media (max-width: 450px) {
+
+}

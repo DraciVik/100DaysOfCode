@@ -124,6 +124,9 @@ body {
 #footer .fa-codepen:hover {
     color: #fcd000;
 }
+#footer .fa-linkedin-in:hover {
+    color: #0077B5;
+}
 /* Font awesome logos */
 .fa-html5, .fa-css3-alt {
     color: #e34f26;

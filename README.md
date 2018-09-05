@@ -102,3 +102,24 @@ Almost done with the CSS Grid course by Wes Bos. Ready to finish my page
 
 ## Day - 32 - 29.08.2018
 Busy at work today. CSS Grid course still not done. Getting there
+
+## Day - 33 - 30.08.2018
+Signed up for the JAMstack online hackaton which will be held October 27-28. Will work on my page for a bit before I go to bed. Tomorrow is a new day packed with new challenges.
+
+## Day - 34 - 31.08.2018
+Been working on my Personal Portfolio Webpage. Implemented the Parallax effect and inserted my projects. I want to style it a bit more before I can say It's done. It passes all the test provided by #freeCodeCamp but I want it to look nice.
+
+## Day - 35 - 01.09.2018
+Did the same thing as Yesterday. Stying.
+
+## Day - 36 - 02.09.2018
+I've been working on styling my page and doing some CSS exercises. I feel like my animations skills are lacking. Spent a bit more time with my fiance because it's our 1 year anniversary since I proposed. We should really start planning our wedding. 
+
+## Day - 37 - 03.09.2018
+Spent my time practicing CSS
+
+## Day - 38 - 04.09.2018
+I finished my Personal Portfolio Webpage from FCC. I just wonder if I should make a fallback for the layout because I heavily used CSS Grid and some Flexbox to build it. I will ponder it tonight.
+
+## Day - 39 - 05.09.2018
+Did some freeCodeCamp challenges on the JavaScript path.

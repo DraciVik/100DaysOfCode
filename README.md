@@ -123,3 +123,6 @@ I finished my Personal Portfolio Webpage from FCC. I just wonder if I should mak
 
 ## Day - 39 - 05.09.2018
 Did some freeCodeCamp challenges on the JavaScript path.
+
+## Day - 40 - 06.09.2018 
+Finished the Basic JavaScript and started the ES6 challenges from freeCodeCamp. On my way to get the next certificate

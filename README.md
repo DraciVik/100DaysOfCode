@@ -126,3 +126,6 @@ Did some freeCodeCamp challenges on the JavaScript path.
 
 ## Day - 40 - 06.09.2018 
 Finished the Basic JavaScript and started the ES6 challenges from freeCodeCamp. On my way to get the next certificate
+
+## Day - 41 - 07.09.2018
+Continued trough the JavaScript challenges. 

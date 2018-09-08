@@ -129,3 +129,6 @@ Finished the Basic JavaScript and started the ES6 challenges from freeCodeCamp. 
 
 ## Day - 41 - 07.09.2018
 Continued trough the JavaScript challenges. 
+
+## Day - 42 - 08.09.2018
+Still on the JavaScript challenges. Spent most of my day prepairing for my vacation. I hope i can squeese in a bit of coding during my 10 days vacation

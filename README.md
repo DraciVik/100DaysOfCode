@@ -132,3 +132,6 @@ Continued trough the JavaScript challenges.
 
 ## Day - 42 - 08.09.2018
 Still on the JavaScript challenges. Spent most of my day prepairing for my vacation. I hope i can squeese in a bit of coding during my 10 days vacation
+
+## Day - 43 - 08.09.2018
+Downloaded a course which I plan to follow trough called 2019 JavaScript algorithm scripting. It covers basic, intermediate and advanced level. It was a long trip to my vacation spot - 8 hours. Spent a lot of time on the beach reading Eloquent JavaScript on my kindle

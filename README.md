@@ -131,7 +131,10 @@ Finished the Basic JavaScript and started the ES6 challenges from freeCodeCamp. 
 Continued trough the JavaScript challenges. 
 
 ## Day - 42 - 08.09.2018
-Still on the JavaScript challenges. Spent most of my day prepairing for my vacation. I hope i can squeese in a bit of coding during my 10 days vacation
+Still on the JavaScript challenges. Spent most of my day prepairing for my vacation. I hope i can squeese in a bit of coding during my 10 days vacation.
 
-## Day - 43 - 08.09.2018
-Downloaded a course which I plan to follow trough called 2019 JavaScript algorithm scripting. It covers basic, intermediate and advanced level. It was a long trip to my vacation spot - 8 hours. Spent a lot of time on the beach reading Eloquent JavaScript on my kindle
+## Day - 43 - 09.09.2018
+Downloaded a course which I plan to follow trough called 2019 JavaScript algorithm scripting. It covers basic, intermediate and advanced level. It was a long trip to my vacation spot - 8 hours. Spent a lot of time on the beach reading Eloquent JavaScript on my kindle.
+
+## Day - 44 - 10.09.2018
+Spent time completing Assignment 1 from the Professional full stack web developer course by [Stephen](https://twitter.com/stephenmf) I decided to use Node.js with express for the back end. Read a lot of documentation for express and Node so I can get up to speed.

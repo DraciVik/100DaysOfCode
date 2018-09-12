@@ -138,3 +138,6 @@ Downloaded a course which I plan to follow trough called 2019 JavaScript algorit
 
 ## Day - 44 - 10.09.2018
 Spent time completing Assignment 1 from the Professional full stack web developer course by [Stephen](https://twitter.com/stephenmf) I decided to use Node.js with express for the back end. Read a lot of documentation for express and Node so I can get up to speed.
+
+## Day - 45 - 11.09.2018
+Did some challenges on FCC and worked trough some interview questions assignments

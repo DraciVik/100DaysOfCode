@@ -141,3 +141,9 @@ Spent time completing Assignment 1 from the Professional full stack web develope
 
 ## Day - 45 - 11.09.2018
 Did some challenges on FCC and worked trough some interview questions assignments
+
+## Day - 46 - 12.09.2018
+Read a bit of the Express documentation
+
+## Day - 47 - 13.09.2018
+Did a bit of algorithms and interview questions for developers.

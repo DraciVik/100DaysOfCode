@@ -147,3 +147,6 @@ Read a bit of the Express documentation
 
 ## Day - 47 - 13.09.2018
 Did a bit of algorithms and interview questions for developers.
+
+## Day - 48 - 14.09.2018
+Took a step back today and practiced some good ol' CSS

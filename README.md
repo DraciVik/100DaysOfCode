@@ -150,3 +150,12 @@ Did a bit of algorithms and interview questions for developers.
 
 ## Day - 48 - 14.09.2018
 Took a step back today and practiced some good ol' CSS
+
+## Day - 49 - 15.09.2018
+Read a lot of React Documentation
+
+## Day - 50 - 16.09.2018
+Started React for Beginners by Wes Bos
+
+## Day - 51 - 17.09.2018
+Still on the React For Beginners by Wes Bos.

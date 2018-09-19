@@ -159,3 +159,9 @@ Started React for Beginners by Wes Bos
 
 ## Day - 51 - 17.09.2018
 Still on the React For Beginners by Wes Bos.
+
+## Day - 52 - 18.09.2018
+Working trough React For Beginners.
+
+## Day - 53 - 19.09.2018
+Had a 12 hour trip back home from vacation. Today I only managed to read documentation about React

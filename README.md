@@ -165,3 +165,12 @@ Working trough React For Beginners.
 
 ## Day - 53 - 19.09.2018
 Had a 12 hour trip back home from vacation. Today I only managed to read documentation about React
+
+## Day - 54 - 20.09.2018
+Worked on the React tutorial on the official documentation page
+
+## Day - 55 - 21.09.2018
+Finished the react tutorial for the tic tac toe game
+
+## Day - 56 - 22.09.2018
+First day of the KindHack hackaton. Working on Vue with bootstrap. Never worked with either

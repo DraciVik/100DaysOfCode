@@ -177,3 +177,6 @@ First day of the KindHack hackaton. Working on Vue with bootstrap. Never worked 
 
 ## Day - 57 - 23.09.2018
 Pulled an all nighter for the hackaton. Did not stay untill the end but my team won. Horray!
+
+## Day - 58 - 24.09.2018
+That Hackaton sucked the energy out of me. Did not do much today except read a few tutorials.

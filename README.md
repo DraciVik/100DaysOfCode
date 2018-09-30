@@ -180,3 +180,21 @@ Pulled an all nighter for the hackaton. Did not stay untill the end but my team 
 
 ## Day - 58 - 24.09.2018
 That Hackaton sucked the energy out of me. Did not do much today except read a few tutorials.
+
+## Day - 59 - 25.09.2018
+Trying to finish that Wes Bos react tutorial.
+
+## Day - 60 - 26.09.2018
+Reading documentation for React.
+ 
+## Day - 61 - 27.09.2018
+Did some CSS Exercises.
+
+## Day - 62 - 28.09.2018
+Friday and I'm relaxing a bit and reading documentation
+
+## Day - 63 - 29.09.2018
+A little React practice during the morning then I have a wedding to attend to
+
+## Day - 64 - 30.09.2018
+last day of September spent with my fiance, a little bit of games and a little bit of React

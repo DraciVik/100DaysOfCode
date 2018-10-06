@@ -197,4 +197,22 @@ Friday and I'm relaxing a bit and reading documentation
 A little React practice during the morning then I have a wedding to attend to
 
 ## Day - 64 - 30.09.2018
-last day of September spent with my fiance, a little bit of games and a little bit of React
+Last day of September spent with my fiance, a little bit of games and a little bit of React
+
+## Day - 65 - 01.10.2018
+Working on the Wes Bos React tutorial
+
+## Day - 66 - 02.11.2018
+React tutorial and documentation from the official page
+
+## Day - 67 - 03.11.2018
+Same as the day before
+
+## Day - 68 - 04.11.2018
+Done with the documentation on React.
+
+## Day - 69 - 05.11.2018
+Finishing up with the React tutorial.
+
+## Day - 70 - 06.11.2018
+Finished with the React tutorial. Next up is building apps in react. Can't wait.

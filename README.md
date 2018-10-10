@@ -202,17 +202,23 @@ Last day of September spent with my fiance, a little bit of games and a little b
 ## Day - 65 - 01.10.2018
 Working on the Wes Bos React tutorial
 
-## Day - 66 - 02.11.2018
+## Day - 66 - 02.10.2018
 React tutorial and documentation from the official page
 
-## Day - 67 - 03.11.2018
+## Day - 67 - 03.10.2018
 Same as the day before
 
-## Day - 68 - 04.11.2018
+## Day - 68 - 04.10.2018
 Done with the documentation on React.
 
-## Day - 69 - 05.11.2018
+## Day - 69 - 05.10.2018
 Finishing up with the React tutorial.
 
-## Day - 70 - 06.11.2018
+## Day - 70 - 06.10.2018
 Finished with the React tutorial. Next up is building apps in react. Can't wait.
+
+## Day - 71 - 07.10.2018
+Spent my time coding with CSS animations. I feel that as much as I learn there is still even more to comprehend.
+
+## Day - 72 - 08.10.2018
+Started a few React projects to practice what I've learned.

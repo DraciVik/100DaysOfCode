@@ -222,3 +222,12 @@ Spent my time coding with CSS animations. I feel that as much as I learn there i
 
 ## Day - 72 - 08.10.2018
 Started a few React projects to practice what I've learned.
+
+## Day - 73 - 09.10.2018
+Went trough a lot of freeCodeCamp challenges
+
+## Day - 74 - 10.10.2018
+Did a couple of Codewars Katas
+
+## Day - 75 - 11.10.2018
+FreeCodeCamp challenges and CodeWars Katas

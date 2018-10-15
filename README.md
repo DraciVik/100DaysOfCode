@@ -231,3 +231,15 @@ Did a couple of Codewars Katas
 
 ## Day - 75 - 11.10.2018
 FreeCodeCamp challenges and CodeWars Katas
+
+## Day - 76 - 12.10.2018
+Same as last day.
+
+## Day - 77 - 13.10.2018
+CodeWars katas, freeCodeCamp challenges and started skimming"Complete intro to React v4"
+
+## Day - 78 - 14.10.2018
+Spent a my time on studying Regular expressions. Very powerful if I have the discipline to learn it.
+
+## Day - 79 - 15.10.2018
+Spent cleaning most of my free time around the house, then some regexes 

@@ -243,3 +243,6 @@ Spent a my time on studying Regular expressions. Very powerful if I have the dis
 
 ## Day - 79 - 15.10.2018
 Spent cleaning most of my free time around the house, then some regexes 
+
+## Day - 80 - 16.10.2018
+Finished the debugging challenges on freeCodeCamp

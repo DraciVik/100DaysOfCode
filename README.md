@@ -246,3 +246,6 @@ Spent cleaning most of my free time around the house, then some regexes
 
 ## Day - 80 - 16.10.2018
 Finished the debugging challenges on freeCodeCamp
+
+## Day - 81 - 17.10.2018
+Solved 2 codeWars challenges and solved some "Basic Data Structures" FCC challenges

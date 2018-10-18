@@ -249,3 +249,6 @@ Finished the debugging challenges on freeCodeCamp
 
 ## Day - 81 - 17.10.2018
 Solved 2 codeWars challenges and solved some "Basic Data Structures" FCC challenges
+
+## Day - 82 - 18.10.2018
+Tried to solve a problem and I failed.

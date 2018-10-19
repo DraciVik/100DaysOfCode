@@ -252,3 +252,6 @@ Solved 2 codeWars challenges and solved some "Basic Data Structures" FCC challen
 
 ## Day - 82 - 18.10.2018
 Tried to solve a problem and I failed.
+
+## Day - 83 - 19.10.2018
+Solved the "Basic Data Structures" challenges on FCC and started doing some algorithm problems

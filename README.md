@@ -252,3 +252,12 @@ Solved 2 codeWars challenges and solved some "Basic Data Structures" FCC challen
 
 ## Day - 82 - 18.10.2018
 Tried to solve a problem and I failed.
+
+## Day - 83 - 19.10.2018
+Solved the Basic Data structures challenges
+
+## Day - 84 - 20.10.2018
+Solved an initeresting algorithm challenge where you draw spiders with inputs.
+
+## Day - 85 - 21.10.2018
+I have friends over from Hungary. Spent most of the day taking them sightseeing. Only managed to read some blog posts on medium

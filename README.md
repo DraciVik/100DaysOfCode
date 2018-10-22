@@ -261,3 +261,6 @@ Solved an initeresting algorithm challenge where you draw spiders with inputs.
 
 ## Day - 85 - 21.10.2018
 I have friends over from Hungary. Spent most of the day taking them sightseeing. Only managed to read some blog posts on medium
+
+## Day - 86 - 22.10.2018
+Solved 3 coding challenges. I plan on making them in React so they are with a user controlled input.

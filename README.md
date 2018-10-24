@@ -264,3 +264,9 @@ I have friends over from Hungary. Spent most of the day taking them sightseeing.
 
 ## Day - 86 - 22.10.2018
 Solved 3 coding challenges. I plan on making them in React so they are with a user controlled input.
+
+## Day - 87 - 23.10.2018
+Solved most of the Basic Algorithm challenges on FCC
+
+## Day - 88 - 24.10.2018
+Solved all of the Basic Algorithm Challenges on FCC. I plan on doing them in React.

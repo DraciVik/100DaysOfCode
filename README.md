@@ -270,3 +270,15 @@ Solved most of the Basic Algorithm challenges on FCC
 
 ## Day - 88 - 24.10.2018
 Solved all of the Basic Algorithm Challenges on FCC. I plan on doing them in React.
+
+## Day - 89 - 25.10.2018
+Read and watched a few tutorials
+
+## Day - 90 - 26.10.2018
+Added starter files for the first 3 challenges for react
+
+## Day - 91 - 27.10.2018
+Added starter files for the next 3 challenges for react
+
+## Day - 92 - 28.10.2018
+Finished the convertion of celsius and fahrenheit temperatures

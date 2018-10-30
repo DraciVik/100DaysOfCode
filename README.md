@@ -284,7 +284,7 @@ Added starter files for the next 3 challenges for react
 Finished the convertion of celsius and fahrenheit temperatures
 
 ## Day - 93 - 29.10.2018
-Watched a few videos from react and solved a few problems
+Started transfering my repos to another drive to free-up some space but it's taking about an hour to do that. I watched a few tutorial videos about React and I tried to solve a problem in React for an algorithm challenge and display the result on the screen
 
 ## Day - 94 - 30.10.2018
 Solved a few problems on codewars

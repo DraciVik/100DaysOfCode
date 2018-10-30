@@ -282,3 +282,9 @@ Added starter files for the next 3 challenges for react
 
 ## Day - 92 - 28.10.2018
 Finished the convertion of celsius and fahrenheit temperatures
+
+## Day - 93 - 29.10.2018
+Watched a few videos from react and solved a few problems
+
+## Day - 94 - 30.10.2018
+Solved a few problems on codewars

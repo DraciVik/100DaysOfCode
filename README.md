@@ -288,3 +288,9 @@ Started transfering my repos to another drive to free-up some space but it's tak
 
 ## Day - 94 - 30.10.2018
 Solved a few problems on codewars
+
+## Day - 95 - 31.10.2018
+Messed around a bit with some more of React
+
+## Day - 96 - 01.11.2018
+Read some articles, solved a couple of codewars catas

@@ -294,3 +294,12 @@ Messed around a bit with some more of React
 
 ## Day - 96 - 01.11.2018
 Read some articles, solved a couple of codewars catas
+
+## Day - 97 - 02.11.2018
+I spent the whole day trying to solve a few harder codewars katas
+
+## Day - 98 - 03.11.2018
+Spent the day with my fiance and did a couple of coding problems
+
+## Day - 99 - 04.11.2018
+Prepairing for the next work week. Spent some time solving freeCodeCamp challenges

@@ -303,3 +303,7 @@ Spent the day with my fiance and did a couple of coding problems
 
 ## Day - 99 - 04.11.2018
 Prepairing for the next work week. Spent some time solving freeCodeCamp challenges
+
+## Day  100 - 05.11.2018
+Solved a few challenges on freeCodeCamp and a few challenges on codewars.
+This concludes the first 100 days. For the next 100 days I plan on tweeting every day and doing instagram posts every day too.

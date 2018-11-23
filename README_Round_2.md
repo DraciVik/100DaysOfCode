@@ -13,3 +13,6 @@ Decided that I'll need to start applying to new jobs around February or March so
 ## Day - 3 - 10.11.2018
 
 Worked trough some tutorials on npm and git. I thought it would be boring since I was familiar with both, but I actually learned a thing or two. Also solved a 6kyu kata on codewars.
+
+## Day - 4 - 11.11.2018
+Finished all the videos from week one of a course on Coursera. I plan on finishing the assignment on day 5.

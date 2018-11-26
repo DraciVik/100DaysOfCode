@@ -29,3 +29,31 @@ Solved my first weeks assignment from Coursera
 ## Day - 7 - 14.11.2018
 
 Solved a couple of codewars challenges and a few freeCodeCamp functional programming
+
+## Day - 8 - 15.11.2018
+
+I did a few codewars challenges and went trough a lot of medium publications. Also worked on my assignments. I'm relearning some basic stuff right now cuz I feel myself forgetting them after not using such technologies after a few weeks.
+
+## Day - 9 - 16.11.2018
+
+Had some free time while at work and took some notes while I was watching a course. After that I solved a few challenges on codewars and freeCodeCamp and had the intention to continue after work. Yet I fell asleep and keep at it strong for 14hours
+
+## Day - 10 - 17.11.2018
+
+Followed trough the week 2 of my coursera course.
+
+## Day - 11 - 18.11.2018
+
+Practiced bootstrap today.
+
+## Day - 12 - 19.11.2018
+
+Went trough the whole bootstrap documentation then tried to implement the framework. It looks too easy so far. Is bootstrap ever used in deployment or just for quick wireframes to show a client?
+
+## Day - 13 - 20.11.2018
+
+Worked on bootsrap projects. Some shopping preparation for one of the biggest exports from the US - Black Friday.
+
+## Day - 14 - 21.11.2018
+
+Same as day 13

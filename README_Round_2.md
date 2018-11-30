@@ -57,3 +57,15 @@ Worked on bootsrap projects. Some shopping preparation for one of the biggest ex
 ## Day - 14 - 21.11.2018
 
 Same as day 13
+
+## Day - 15 - 22.11.2018
+
+Got accepted for financial aid for a Coursera course
+
+## Day - 16 - 23.11.2018
+
+Bought mine own .tech domain which I plan to use. Need to plan my portfolio site a bit better
+
+## Day - 17 - 24.11.2018
+
+Completed week 2 of the Coursera course

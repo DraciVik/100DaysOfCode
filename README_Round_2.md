@@ -69,3 +69,31 @@ Bought mine own .tech domain
 ## Day - 17 - 24.11.2018
 
 Started going trough week 2 and 3 of the course
+
+## Day - 18 - 25.11.2018
+
+Started my Chingu voyage
+
+## Day - 19 - 26.11.2018
+
+Brainstormed about ideas for our project with team
+
+## Day - 20 - 27.11.2018
+
+Went trough a couple of lectures of my Coursera course
+
+## Day - 21 - 28.11.2018
+
+Coursera course lessions and a few codewars solutions
+
+## Day - 22 - 29.11.2018
+
+Finaly landed on an idea for our project
+
+## Day - 23 - 30.11.2018
+
+A few codewars challenges
+
+## Day - 24 - 01.12.2018
+
+Created a few pull requests on our team repo to set up the project

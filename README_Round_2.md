@@ -97,3 +97,19 @@ A few codewars challenges
 ## Day - 24 - 01.12.2018
 
 Created a few pull requests on our team repo to set up the project
+
+## Day - 25 - 02.12.2018
+
+Messed around with a code from a team mate
+
+## Day - 26 - 03.12.2018
+
+Went trough bootstrap 4 code. Did a couple of exercises for it
+
+## Day - 27 - 04.12.2018
+
+Started working on my Chingu Voyage project. 2 of our 4 team members don't seem to be active a lot so I don't know how to get them to contribute a bit more.
+
+## Day - 28 - 05.12.2018
+
+Not much coding today. Just a couple of medium articles and YouTube videos

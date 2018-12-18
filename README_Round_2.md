@@ -113,3 +113,23 @@ Started working on my Chingu Voyage project. 2 of our 4 team members don't seem 
 ## Day - 28 - 05.12.2018
 
 Not much coding today. Just a couple of medium articles and YouTube videos
+
+## Day - 29 - 06.12.2018
+
+Codewars katas
+
+## Day - 30 - 07.12.2018
+
+Watched trough some of the Coursera course
+
+## Day - 31 - 08.12.2018
+
+Mostly rested but squeezed in a few problem solving tasks
+
+## Day - 32 - 09.12.2018
+
+Went trough one week of my coursera tasks
+
+## Day - 33 - 10.12.2018
+
+Did a little bit of work on my chingu voyage project

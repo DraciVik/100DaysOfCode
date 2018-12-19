@@ -133,3 +133,15 @@ Went trough one week of my coursera tasks
 ## Day - 33 - 10.12.2018
 
 Did a little bit of work on my chingu voyage project
+
+## Day - 34 - 11.12.2018
+
+Worked on the cihngu voyage a bit more
+
+## Day - 35 - 12.12.2018
+
+Started the next week of the coursera course
+
+## Day - 36 - 13.12.2018
+
+Codewars FTW

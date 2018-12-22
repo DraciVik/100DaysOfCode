@@ -145,3 +145,11 @@ Started the next week of the coursera course
 ## Day - 36 - 13.12.2018
 
 Codewars FTW
+
+## Day - 37 - 14.12.2018
+
+Worked on my Chingu voyage project again
+
+## Day - 38 - 15.12.2018
+
+Took a little break from work today. Read only a couple of Medium articles

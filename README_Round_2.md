@@ -153,3 +153,15 @@ Worked on my Chingu voyage project again
 ## Day - 38 - 15.12.2018
 
 Took a little break from work today. Read only a couple of Medium articles
+
+## Day - 39 - 16.12.2018
+
+Got into 30SecondsOfInterview questions. Seem preety good. I'll make it my task to learn from here
+
+## Day - 40 - 17.12.2018
+
+Watched a couple of Coursera videos. Then solved some CodeWars katas
+
+## Day - 41 - 18.12.2018
+
+Watched a couple of more vides from my other bootstrap4 course and solved tasks without help

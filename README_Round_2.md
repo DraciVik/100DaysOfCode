@@ -168,7 +168,7 @@ Watched a couple of more vides from my other bootstrap4 course and solved tasks 
 
 ## Day - 42 - 19.12.2018
 
-Worked on a project with my team from chingu
+Worked on a project with my team from chingu and did a couple of interview questions practice
 
 ## Day - 43 - 20.12.2018
 

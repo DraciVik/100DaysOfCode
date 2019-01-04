@@ -165,3 +165,19 @@ Watched a couple of Coursera videos. Then solved some CodeWars katas
 ## Day - 41 - 18.12.2018
 
 Watched a couple of more vides from my other bootstrap4 course and solved tasks without help
+
+## Day - 42 - 19.12.2018
+
+Worked on a project with my team from chingu
+
+## Day - 43 - 20.12.2018
+
+Going trough a course on bootstrap that I downloaded (Not the Coursera one)
+
+## Day - 44 - 21.12.2018
+
+Solved CodeWars katas and worked on my project a bit
+
+## Day - 45 - 22.12.2018
+
+Going trough the Coursera course

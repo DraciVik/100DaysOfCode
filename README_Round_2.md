@@ -181,3 +181,11 @@ Solved CodeWars katas and worked on my project a bit
 ## Day - 45 - 22.12.2018
 
 Going trough the Coursera course
+
+## Day - 46 - 23.12.2018
+
+a few codewars challenges. Need to practice this daily
+
+## Day - 47 - 24.12.2018
+
+an hour of going trough my Coursera course and a bit of practice Codewars challenges
